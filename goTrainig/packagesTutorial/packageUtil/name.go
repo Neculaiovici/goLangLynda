@@ -1,3 +1,3 @@
 package packageUtil
 
-var NyName = "Titi Aur"
+var MyName = "Titi Aur"
