@@ -1,3 +1,3 @@
 # goLang Lynda Tutorial #
-Lynda tutorial for go.....
-Learn fast or sleep! cy@
+* Go!! Lessons for the complete noobs
+* Learn fast or sleep! cy@
